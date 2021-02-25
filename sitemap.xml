@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>gresk.ru</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>gresk.ru/img/2.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/3.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/1.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/2.png</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/3.png</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>gresk.ru/about.html</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>gresk.ru/img/logo3d.png</image:loc>
+	<image:title>logo3d</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/экскаватор.png</image:loc>
+	<image:title>экскаватор</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/scale_1200%20%281%29.png</image:loc>
+	<image:title>экскаватор</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/39993_eWON_1.jpg</image:loc>
+	<image:title>экскаватор</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/scale_1200.png</image:loc>
+	<image:title>экскаватор</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>gresk.ru/img/символ.svg</image:loc>
+	<image:title>символ</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>gresk.ru/info.html</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>gresk.ru/vac.html</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>gresk.ru/img/Asset%205.svg</image:loc>
+	<image:title>Asset%25205</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>gresk.ru/contacts.html</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>gresk.ru/img/recapture-placeholder.png</image:loc>
+	<image:title>recapture%20placeholder</image:title>
+	</image:image>
+</url>
+</urlset>
